@@ -1,0 +1,8 @@
+.header {
+	width: 70vw;
+	height: 20vh;
+	background-color: #a8defa;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
