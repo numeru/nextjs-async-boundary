@@ -25,6 +25,9 @@ a {
 button {
 	border: none;
 	cursor: pointer;
+	background-color: white;
+	padding: 8px 16px;
+	border-radius: 8px;
 }
 
 .a11y-hidden {
@@ -37,4 +40,34 @@ button {
 	border: 0;
 	padding: 0;
 	white-space: nowrap;
+}
+
+.aside {
+	width: 30vw;
+	height: 100vh;
+}
+
+.footer {
+	width: 70vw;
+	height: 20vh;
+}
+
+.header {
+	width: 70vw;
+	height: 20vh;
+}
+
+.main {
+	width: 70vw;
+	height: 60vh;
+}
+
+.flex-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.border {
+	border: 1px solid black;
 }

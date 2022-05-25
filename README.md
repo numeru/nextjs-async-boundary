@@ -1,1 +1,1 @@
-# Nextjs Typescript Boilerplate
+# Nextjs Async Boundary
